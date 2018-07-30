@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="teamsize">35sp</dimen>
+    <dimen name="teampadding">25dp</dimen>
+    <dimen name="scorebottompadding">15dp</dimen>
+    <dimen name="buttonheight">50dp</dimen>
+    <dimen name="buttonwidth">125dp</dimen>
+    <dimen name="buttonmarginbottom">10dp</dimen>
+    
+</resources>
